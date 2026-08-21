@@ -27,3 +27,12 @@ bin/tshark
 # Output
 
 <img src='img/tshark.png'>
+
+# Other apt
+## Ping
+
+```
+sudo apt install iputils-ping
+ping -V 
+
+```
